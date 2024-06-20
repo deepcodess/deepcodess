@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://ibb.co/JCRd28s"  />
+  <img height="175" src="./Images/Linkedin Profile Banner.png"  />
 </div>
 
 ###
@@ -27,10 +27,8 @@
 </div>
 
 ###
-
+<div>
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <!--
 **deepcodess/deepcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,10 +44,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <img src="./Images/1678158906244.png" width="175" height ="175" align="right" />
+  <br>
+  <p align="left">- 🧩Name: Deep Saha<br>- ⚡Portfolio: <a href="www.deepdevmaster.tech">www.deepdevmaster.tech</a><br>- 🔭I’m an Artist & a Coder.<br>- 📚I'm currently learning Cybersecurity<br>- 📍West Bengal, India</p>
 
-<p align="left">- 🧩Name: Deep Saha<br>- ⚡Portfolio: www.deepdevmaster.tech<br>- 🔭I’m an Artist & a Coder.<br>- 📚I'm currently learning Cybersecurity<br>- 📍West Bengal, India</p>
+</div>
 
 ###
+<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
