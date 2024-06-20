@@ -27,12 +27,16 @@
 </div>
 
 ###
-<div>
-<h3 align="left">👩‍💻  About Me</h3>
+<div align= "left">
+  <img src="./Images/1678158906244.png" width="225" height ="225" align="right" />
+  <h3 align="left">👩‍💻  About Me</h3>
+
+  <br>
+  <p align="left">- 🧩Name: Deep Saha<br>- ⚡Portfolio: <a href="www.deepdevmaster.tech">www.deepdevmaster.tech</a><br>- 🔭I’m an Artist & a Coder.<br>- 📚I'm currently learning Cybersecurity<br>- 📍West Bengal, India</p>
+
+</div>
 
 <!--
-**deepcodess/deepcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -44,11 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img src="./Images/1678158906244.png" width="175" height ="175" align="right" />
-  <br>
-  <p align="left">- 🧩Name: Deep Saha<br>- ⚡Portfolio: <a href="www.deepdevmaster.tech">www.deepdevmaster.tech</a><br>- 🔭I’m an Artist & a Coder.<br>- 📚I'm currently learning Cybersecurity<br>- 📍West Bengal, India</p>
-
-</div>
 
 ###
 <br>
