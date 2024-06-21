@@ -100,7 +100,3 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/deepcodess/deepcodess/output/snake.svg" alt="Snake animation" />
-
-###
-
