@@ -36,7 +36,7 @@
   <h3 align="left">👩‍💻  About Me</h3>
 
   <br>
-  <p align="left">- 🧩Name: Deep Saha<br>- ⚡Portfolio: <a href="www.deepdevmaster.tech">www.deepdevmaster.tech</a><br>- 🔭I’m an Artist & a Coder.<br>- 📚I'm currently learning Cybersecurity<br>- 📍West Bengal, India</p>
+  <p align="left">- 🧩Name: Deep Saha<br>- ⚡Portfolio: <a href="https://deepdevcodes.netlify.app/">Website</a><br>- 🔭I’m an Artist & a Coder.<br>- 📚I'm currently learning Cybersecurity<br>- 📍West Bengal, India</p>
 
 </div>
 
