@@ -32,7 +32,7 @@
 
 ###
 <div align= "left">
-  <img src="./Images/1678158906244.png" width="225" height ="225" align="right" />
+  <img src="./Images/husk.jpeg" width="225" height ="225" align="right" />
   <h3 align="left">👩‍💻  About Me</h3>
 
   <br>
